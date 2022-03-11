@@ -1,2 +1,6 @@
 __pycache__/
 **/__pycache__/
+helloflask/
+helloflask/helloflaskapp
+helloflask/helloflaskapp/__pycache__/
+flaskproject.md
