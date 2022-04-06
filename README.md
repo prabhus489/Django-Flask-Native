@@ -1,6 +1,10 @@
 # Basic Hello Flask application
 -To run this project in your machine-
 
+##### Install Flask using the pip command
+
+*pip install Flask*
+
 ##### clone this code repository:
 
 *git clone https://github.com/prabhus489/Django-Flask-Native.git*
@@ -13,9 +17,7 @@
 
 *git pull*
 
-##### Install Flask using the pip command
-
-*pip install Flask*
+*cd helloflask/helloflaskapp/*
 
 ### Flask App
 
