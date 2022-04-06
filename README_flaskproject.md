@@ -7,7 +7,7 @@
 
 *cd Django-Flask-Native*
 
-*git status
+*git status*
 
 *git checkout final-flask*
 
