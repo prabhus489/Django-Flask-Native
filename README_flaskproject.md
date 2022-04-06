@@ -1,10 +1,18 @@
+### Basic Hello Flask application
 
-## Flask App
+
+### Install Flask using the pip command
+
+# pip install Flask
+
+
+
+### Flask App
 
 Before running it, though, Flask needs to be told how to import it, by setting the FLASK_APP
-# environment variable: FLASK_APP = helloflask.py
+##### environment variable: FLASK_APP = helloflask.py
 
-# You can run your first web application, with the following command: 
+##### You can run your first web application, with the following command: 
 
 ![image](https://user-images.githubusercontent.com/43057160/162020604-ac4d06d2-94ef-4f4b-9a7c-b99e1cbfa087.png)
 
